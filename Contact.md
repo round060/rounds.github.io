@@ -1,3 +1,4 @@
+
 [Home page](./index.md) &nbsp; &nbsp; &nbsp; [Research](./Research.md) 
 
 ## Contact Information
@@ -7,7 +8,7 @@ Questions, comments or suggestion? Reach out to me!
 Here you can find my [Twitter](https://twitter.com/CR46_) 
 
 
-<img src="https://user-images.githubusercontent.com/31868305/119174522-4d1de980-ba2e-11eb-8777-5b54f79ced1d.png" width="75" height="40">
+<img src="https://user-images.githubusercontent.com/31868305/119174886-c3225080-ba2e-11eb-84a6-24ace7a7e159.png" width="40" height="40">
 Here you can find my [Linkedin](https://www.linkedin.com/in/christopher-rounds-6a9b19189)
 
 My email is round060 at UMN dot edu
