@@ -1,4 +1,3 @@
-![twitter](https://user-images.githubusercontent.com/31868305/119173877-768a4580-ba2d-11eb-8e05-50e201b51920.png)
 [Home page](./index.md) &nbsp; &nbsp; &nbsp; [Research](./Research.md) 
 
 ## Contact Information
