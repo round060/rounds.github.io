@@ -1,6 +1,6 @@
 [Home page](./index.md) &nbsp; &nbsp; &nbsp; [Research](./Research.md) 
 
-#Contact Information
+## Contact Information
 Questions, comments or suggestion? Reach out to me!
 
 Here you can find my [Twitter](https://twitter.com/CR46_)
